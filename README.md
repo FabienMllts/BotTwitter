@@ -9,5 +9,5 @@ First function
 
 
 Second function
-# respond to a tweet which start with "Is it me or.."
+respond to a tweet which start with "Is it me or.."
 The tweet will answer "yes it is you..."
