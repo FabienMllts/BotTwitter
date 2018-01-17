@@ -5,7 +5,7 @@ First function
 
 -Fetch the most recents tweets of a user (per IDs) ( a list of journalists)
 -Then puts the tweets IDs
--And finally Like the list of tweet.
+-And finally Like the list of tweet, each time they put a new tweet (each iteration)
 
 
 Second function
