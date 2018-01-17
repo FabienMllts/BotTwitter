@@ -9,5 +9,9 @@ First function
 
 
 Second function
-respond to a tweet which start with "Is it me or.."
-The tweet will answer "yes it is you..."
+Each time someone on twitter writte "Is it me or.."
+My bot will answer "yes it is you..." ( or an answer in the list)
+
+
+
+Mon tweeter @jeanmidata1 (Jeanmidata) pour voir mes tweets et la deuxième fonction en action
